@@ -13,4 +13,5 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [2235-add-two-integers](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
