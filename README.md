@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [1929-concatenation-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3028-ant-on-the-boundary](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3028-ant-on-the-boundary) |
@@ -54,5 +55,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0696-count-binary-substrings](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
