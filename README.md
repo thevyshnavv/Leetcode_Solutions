@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [1929-concatenation-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3028-ant-on-the-boundary](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
@@ -18,6 +19,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
@@ -32,6 +34,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
 ## String
