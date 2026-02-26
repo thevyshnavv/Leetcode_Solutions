@@ -44,6 +44,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0696-count-binary-substrings](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
+| [0709-to-lower-case](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
