@@ -22,6 +22,7 @@
 | [0009-palindrome-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1952-three-divisors](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2235-add-two-integers) |
@@ -43,6 +44,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
@@ -66,6 +68,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
 ## Two Pointers
 |  |
