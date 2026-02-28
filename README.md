@@ -27,6 +27,7 @@
 | [2427-number-of-common-factors](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2469-convert-the-temperature) |
+| [3099-harshad-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3099-harshad-number) |
 ## Simulation
 |  |
 | ------- |
