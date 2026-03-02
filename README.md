@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -40,6 +41,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
@@ -49,6 +51,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
