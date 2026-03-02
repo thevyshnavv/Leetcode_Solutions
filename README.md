@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [1108-defanging-an-ip-address](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1816-truncate-sentence](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2833-furthest-point-from-origin](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Prefix Sum
 |  |
