@@ -11,6 +11,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2706-buy-two-chocolates](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
@@ -82,6 +83,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2706-buy-two-chocolates](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
