@@ -31,6 +31,7 @@
 | [0412-fizz-buzz](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1952-three-divisors](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
