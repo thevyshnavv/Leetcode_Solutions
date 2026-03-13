@@ -78,6 +78,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2833-furthest-point-from-origin](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
+| [3019-number-of-changing-keys](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3019-number-of-changing-keys) |
 ## Prefix Sum
 |  |
 | ------- |
