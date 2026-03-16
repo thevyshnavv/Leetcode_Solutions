@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0027-remove-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1816-truncate-sentence](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -101,10 +102,12 @@
 | ------- |
 | [0027-remove-element](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0696-count-binary-substrings](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2706-buy-two-chocolates](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3024-type-of-triangle) |
