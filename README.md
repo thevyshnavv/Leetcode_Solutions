@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1672-richest-customer-wealth](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -133,4 +134,8 @@
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
