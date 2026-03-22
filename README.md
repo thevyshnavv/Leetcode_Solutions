@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0027-remove-element) |
+| [0682-baseball-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
@@ -60,6 +61,7 @@
 | [0258-add-digits](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
@@ -96,6 +98,7 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
