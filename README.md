@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0682-baseball-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1528-shuffle-string](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
@@ -88,6 +89,7 @@
 | [0696-count-binary-substrings](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1816-truncate-sentence) |
