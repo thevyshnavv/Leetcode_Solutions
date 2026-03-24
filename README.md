@@ -26,6 +26,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3024-type-of-triangle](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
