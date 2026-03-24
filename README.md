@@ -153,6 +153,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
@@ -164,4 +165,8 @@
 | ------- |
 | [0367-valid-perfect-square](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
