@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
@@ -173,6 +174,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -181,5 +183,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
