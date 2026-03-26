@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0682-baseball-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -166,6 +167,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
