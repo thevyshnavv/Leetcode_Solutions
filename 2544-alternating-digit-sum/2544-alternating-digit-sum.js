@@ -3,14 +3,13 @@
  * @return {number}
  */
 var alternateDigitSum = function(n) {
-    let str = n.toString()
     let sum = 0
+    let str = n.toString()
     for(let i=0; i<str.length; i++){
         let digit = Number(str[i])
-
         if(i%2===0){
             sum+=digit
-        }else{
+        }else {
             sum-=digit
         }
     }return sum
