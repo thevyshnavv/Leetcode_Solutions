@@ -54,6 +54,7 @@
 | [0507-perfect-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1952-three-divisors) |
