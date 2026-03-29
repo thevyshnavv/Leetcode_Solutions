@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0704-binary-search) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0268-missing-number) |
