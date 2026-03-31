@@ -13,6 +13,7 @@
 | [0704-binary-search](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1528-shuffle-string](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -141,12 +142,14 @@
 | [0027-remove-element](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0696-count-binary-substrings](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2706-buy-two-chocolates](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
@@ -188,6 +191,7 @@
 | [0367-valid-perfect-square](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
