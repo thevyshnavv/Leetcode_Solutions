@@ -30,6 +30,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -178,6 +179,7 @@
 | [0191-number-of-1-bits](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Matrix
 |  |
 | ------- |
