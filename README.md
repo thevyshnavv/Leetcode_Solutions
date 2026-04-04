@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0704-binary-search) |
@@ -180,6 +181,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
