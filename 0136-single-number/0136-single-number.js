@@ -2,10 +2,12 @@
  * @param {number[]} nums
  * @return {number}
  */
-var singleNumber = function(nums) {
+function singleNumber(nums) {
     let result = 0;
-    for (let num of nums) {
-        result ^= num;
+
+    for (let i = 0; i < nums.length; i++) {
+        result = result ^ nums[i];
     }
+
     return result;
-};
+}
