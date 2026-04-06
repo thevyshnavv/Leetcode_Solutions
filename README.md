@@ -14,6 +14,7 @@
 | [0704-binary-search](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1313-decompress-run-length-encoded-list](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1528-shuffle-string](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1528-shuffle-string) |
