@@ -27,6 +27,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -96,6 +97,7 @@
 | [0682-baseball-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
@@ -125,6 +127,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2129-capitalize-the-title) |
