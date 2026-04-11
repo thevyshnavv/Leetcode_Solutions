@@ -4,9 +4,8 @@
  * @return {boolean}
  */
 var isAcronym = function(words, s) {
-    let first = ""
-    for(let w of words){
-        first+=w[0]
-    }
-    return first === s
+    let str = ""
+    for(let i=0; i<words.length; i++){
+        str+=words[i][0]
+    }return str === s
 };
