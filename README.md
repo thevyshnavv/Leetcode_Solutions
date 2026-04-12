@@ -39,6 +39,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
+| [2965-find-missing-and-repeated-values](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3024-type-of-triangle](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3024-type-of-triangle) |
@@ -54,6 +55,7 @@
 | [0389-find-the-difference](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2965-find-missing-and-repeated-values](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2864-maximum-odd-binary-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -206,6 +209,7 @@
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
