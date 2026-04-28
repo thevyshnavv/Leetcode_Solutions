@@ -11,4 +11,3 @@ var getConcatenation = function(nums) {
     }
     return ans
 };
-console.log(getConcatenation([1,2,1]))
