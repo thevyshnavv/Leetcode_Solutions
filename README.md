@@ -34,6 +34,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -60,6 +61,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
@@ -196,6 +198,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2833-furthest-point-from-origin](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Greedy
 |  |
