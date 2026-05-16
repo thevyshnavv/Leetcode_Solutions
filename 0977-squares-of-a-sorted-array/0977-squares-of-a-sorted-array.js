@@ -2,7 +2,7 @@
  * @param {number[]} nums
  * @return {number[]}
  */
-function sortedSquares(nums) {
+var sortedSquares = function(nums) {
     let left = 0;
     let right = nums.length - 1;
 
@@ -25,4 +25,4 @@ function sortedSquares(nums) {
     }
 
     return result;
-}
+};
