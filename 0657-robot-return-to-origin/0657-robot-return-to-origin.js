@@ -2,25 +2,14 @@
  * @param {string} moves
  * @return {boolean}
  */
-var judgeCircle = function (moves) {
-    let x = 0
-    let y = 0
-    for (let i = 0; i < moves.length; i++) {
-        switch (moves[i]) {
-            case "R":
-                x++;
-                continue;
-            case "L":
-                x--;
-                continue;
-            case "U":
-                y++;
-                continue;
-            case "D":
-                y--;
-                continue;
-            default:
-        }
+var judgeCircle = function(moves) {
+    let x=0
+    let y=0
+    for(let i=0; i<moves.length; i++){
+        if(moves[i]==="U")y++
+        if(moves[i]==="D")y--
+        if(moves[i]==="R")x++
+        if(moves[i]==="L")x--
     }
-    return x === 0 && y === 0
-};
+    return x===0&&y===0?true:false 
+}
