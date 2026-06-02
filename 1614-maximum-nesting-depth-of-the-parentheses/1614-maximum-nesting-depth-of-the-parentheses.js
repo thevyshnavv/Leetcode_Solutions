@@ -3,18 +3,11 @@
  * @return {number}
  */
 var maxDepth = function(s) {
-    let depth = 0;
-    let maxDepth = 0;
+    let max = 0
+    let count = 0
     for(let i=0; i<s.length; i++){
-        if(s[i]==="("){
-            depth++
-            if(depth>=maxDepth){
-                maxDepth=depth
-            }
-        }else if(s[i]===")"){
-            depth--
-        }
-        
-    }return maxDepth
+        if(s[i]==="(")count++
+        if(s[i]===")")count--
+        if(max<count)max=count
+    }return max
 };
-console.log(maxDepth("(1+(2*3)+((8)/4))+1"))
