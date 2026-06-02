@@ -2,16 +2,9 @@
  * @param {number} n
  * @return {boolean}
  */
-function isThree(n) {
-    let root = Math.sqrt(n);
-
-    // must be perfect square
-    if (root !== Math.floor(root)) return false;
-
-    // check if root is prime
-    for (let i = 2; i <= Math.sqrt(root); i++) {
-        if (root % i === 0) return false;
-    }
-
-    return root > 1;
-}
+var isThree = function(n) {
+    let count = 0
+    for(let i = 0; i<=n; i++){
+        if(n%i===0)count++
+    }return count === 3
+};
