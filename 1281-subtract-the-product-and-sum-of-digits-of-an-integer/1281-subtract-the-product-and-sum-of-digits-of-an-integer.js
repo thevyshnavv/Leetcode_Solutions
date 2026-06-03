@@ -3,13 +3,11 @@
  * @return {number}
  */
 var subtractProductAndSum = function(n) {
-    let product = 1
     let sum = 0
-    let num = String(n)
-    for(let i=0; i<num.length; i++){
-        product*=num[i]
-        sum+=Number(num[i])
-    }
-    let res=product - sum
-    return res
+    let product = 1
+    let str = n.toString()
+    for(let i =0; i<str.length; i++){
+        sum +=Number(str[i])
+        product*=Number(str[i])
+    }return product - sum
 };
