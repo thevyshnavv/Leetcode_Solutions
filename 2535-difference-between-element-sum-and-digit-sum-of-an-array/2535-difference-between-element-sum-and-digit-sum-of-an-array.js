@@ -3,13 +3,19 @@
  * @return {number}
  */
 var differenceOfSum = function(nums) {
-    let sum = 0
-    let digSum = 0
-    for(let num of nums){
-        sum+=num
-        for(let digit of num.toString()){
-            digSum+=Number(digit)
+    let elementSum = 0;
+    let digitSum = 0;
+
+    for (let num of nums) {
+        elementSum += num;
+
+        let temp = num;
+
+        while (temp > 0) {
+            digitSum += temp % 10;
+            temp = Math.floor(temp / 10);
         }
     }
-    return Math.abs(sum - digSum)
+
+    return Math.abs(elementSum - digitSum);
 };
