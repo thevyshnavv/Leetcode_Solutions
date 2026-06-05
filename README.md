@@ -57,6 +57,7 @@
 | [0001-two-sum](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0389-find-the-difference) |
@@ -130,6 +131,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
@@ -184,6 +186,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
