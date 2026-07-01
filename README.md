@@ -52,6 +52,7 @@
 | [3024-type-of-triangle](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -268,4 +270,8 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
