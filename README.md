@@ -52,6 +52,7 @@
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3024-type-of-triangle](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3028-ant-on-the-boundary) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3668-restore-finishing-order) |
@@ -113,6 +114,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3099-harshad-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
