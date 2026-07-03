@@ -56,6 +56,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3668-restore-finishing-order) |
+| [3838-weighted-word-mapping](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -132,6 +133,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3028-ant-on-the-boundary) |
+| [3838-weighted-word-mapping](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
@@ -171,6 +173,7 @@
 | [2942-find-words-containing-character](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3838-weighted-word-mapping](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
 | ------- |
