@@ -22,6 +22,7 @@
 | [1313-decompress-run-length-encoded-list](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1512-number-of-good-pairs](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -72,6 +73,7 @@
 | [0389-find-the-difference](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1512-number-of-good-pairs](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -96,6 +98,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1952-three-divisors) |
@@ -223,6 +226,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2833-furthest-point-from-origin](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
