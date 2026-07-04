@@ -55,6 +55,7 @@
 | [3028-ant-on-the-boundary](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3467-transform-array-by-parity](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3701-compute-alternating-sum) |
@@ -217,6 +218,7 @@
 | [2706-buy-two-chocolates](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3024-type-of-triangle) |
+| [3467-transform-array-by-parity](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2833-furthest-point-from-origin](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
+| [3467-transform-array-by-parity](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3467-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
