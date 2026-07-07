@@ -28,6 +28,7 @@
 | [1550-three-consecutive-odds](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1816-truncate-sentence) |
@@ -80,6 +81,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -174,6 +176,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -241,6 +244,7 @@
 | [0169-majority-element](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2833-furthest-point-from-origin](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
@@ -263,6 +267,7 @@
 | [0268-missing-number](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Matrix
 |  |
