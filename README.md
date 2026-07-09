@@ -172,6 +172,7 @@
 | [0657-robot-return-to-origin](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0709-to-lower-case) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1108-defanging-an-ip-address](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -314,4 +315,16 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Tree
+|  |
+| ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
