@@ -45,6 +45,7 @@
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -276,6 +277,7 @@
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
