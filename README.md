@@ -195,6 +195,7 @@
 | [2942-find-words-containing-character](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3110-score-of-a-string](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
