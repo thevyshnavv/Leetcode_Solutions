@@ -198,6 +198,7 @@
 | [3019-number-of-changing-keys](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
@@ -224,6 +225,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3794-reverse-string-prefix](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
