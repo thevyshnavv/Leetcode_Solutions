@@ -92,6 +92,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3146-permutation-difference-between-two-strings](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -199,6 +200,7 @@
 | [3019-number-of-changing-keys](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
