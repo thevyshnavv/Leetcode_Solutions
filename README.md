@@ -34,6 +34,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -115,6 +116,7 @@
 | [1512-number-of-good-pairs](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -218,6 +220,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
 ## Two Pointers
@@ -280,6 +283,7 @@
 | [0389-find-the-difference](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Matrix
 |  |
@@ -338,4 +342,12 @@
 |  |
 | ------- |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
