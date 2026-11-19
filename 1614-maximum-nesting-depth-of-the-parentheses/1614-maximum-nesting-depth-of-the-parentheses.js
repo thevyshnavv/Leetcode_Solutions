@@ -4,10 +4,16 @@
  */
 var maxDepth = function(s) {
     let max = 0
-    let count = 0
+    let nexted = 0
     for(let i=0; i<s.length; i++){
-        if(s[i]==="(")count++
-        if(s[i]===")")count--
-        if(max<count)max=count
-    }return max
+        if(s[i]==="("){
+            max++
+        }
+        if(max>nexted){
+            nexted = max
+        }
+        if(s[i]===")"){
+            max--
+        }
+    }return nexted
 };
