@@ -4,8 +4,14 @@
  * @return {number}
  */
 var commonFactors = function(a, b) {
-    let count = 0
-    for(let i=1; i<=a; i++){
-        if(a%i===0&&b%i===0)count++
-    }return count 
+    let count = 0;
+    let small = a < b ? a : b;
+
+    for (let i = 1; i <= small; i++) {
+        if (a % i === 0 && b % i === 0) {
+            count++;
+        }
+    }
+
+    return count;
 };
