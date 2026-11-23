@@ -369,9 +369,11 @@
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/thevyshnavv/Leetcode_Solutions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
